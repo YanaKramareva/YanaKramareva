@@ -1,10 +1,4 @@
 
-YanaKramareva
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YanaKramareva)
-
-[![](https://github-readme-stats.vercel.app/api?username=YanaKramareva)](https://github.com/YanaKramareva)
-<!---
 <h1 align="center">Hi 👋, I'm Yana Kramareva</h1>
 <h3 align="center">A backend developer</h3>
 
